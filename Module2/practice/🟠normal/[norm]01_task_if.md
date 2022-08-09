@@ -15,7 +15,12 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+num = int(input("Введите целое число: "))
+
+if num >= 100:
+    print("Да")
+else:
+    print("Нет")
 ```
 
 ---
