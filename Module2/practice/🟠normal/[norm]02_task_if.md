@@ -16,6 +16,11 @@
 
 ```python
 # TODO: you code here...
+num = int(input("Введите целое число: "))
+if num % 10 == 5:
+    print("Да")
+else:
+    print("Нет")
 ```
 
 ---
